@@ -15,7 +15,7 @@ module.exports = {
     -General-
   ===============*/
   //The prefix for a command (for example $help)
-  prefix: '$',
+  prefix: '=',
   //The locales for the localization (by default en-US or fr-FR)
   locale: '',
   //The 'game' the bot is playing (more like a status)
